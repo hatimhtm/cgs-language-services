@@ -1,0 +1,368 @@
+{
+  "common": {
+    "brand": {
+      "short": "CGS",
+      "full": "CGS Language Services",
+      "tagline": "Language Services",
+      "subline": "Document Translation"
+    },
+    "cta": {
+      "quote": "Request a quote",
+      "whatsapp": "Message on WhatsApp",
+      "whatsappLong": "Request a quote on WhatsApp",
+      "email": "Email {{address}}",
+      "seeServices": "See what we translate",
+      "getStarted": "Get started",
+      "contact": "Contact us",
+      "askDirectly": "Ask us directly",
+      "back": "Back"
+    },
+    "meta": {
+      "siteTitle": "CGS Language Services",
+      "siteDesc": "Official document translation between English, French, Arabic and Chinese, delivered in 24 hours. Accepted by Chinese universities."
+    }
+  },
+  "nav": {
+    "home": "Home",
+    "services": "Services",
+    "languages": "Languages",
+    "process": "Process",
+    "about": "About",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "menu": "Menu",
+    "language": "Language"
+  },
+  "hero": {
+    "badge": "Accepted by Chinese universities · Trusted by China Global Study",
+    "titleA": "Document translation",
+    "titleB": "for your next chapter",
+    "titleC": "in China.",
+    "subtitle": "Application-ready translations between <1>English, French, Arabic and Chinese</1> — delivered in 24 hours and accepted by Chinese universities. Built for students, by a team that sends students to China every year.",
+    "points": {
+      "turnaround": "standard turnaround",
+      "accepted": "translations",
+      "acceptedEm": "University-accepted",
+      "languages": "4 languages, any direction"
+    },
+    "doc": {
+      "original": "Original",
+      "translated": "Translated · ZH",
+      "zhTitle": "高中毕业证书",
+      "stampOuter": "验证",
+      "stampInner": "认证",
+      "bannerTitle": "Delivered in 24 hours",
+      "bannerSub": "Standard turnaround"
+    }
+  },
+  "trust": {
+    "p1Stat": "24h",
+    "p1Label": "Standard turnaround",
+    "p2Stat": "4",
+    "p2Label": "Languages, any direction",
+    "p3Stat": "100%",
+    "p3Label": "Accepted by Chinese universities",
+    "p4Stat": "By students,",
+    "p4Label": "for students"
+  },
+  "home": {
+    "services": {
+      "eyebrow": "01 — Services",
+      "titleA": "Every document your Chinese university",
+      "titleB": "asks for.",
+      "intro": "We specialise in the paperwork that matters for student applications to China — the documents admissions offices actually want, translated to their standard.",
+      "explore": "Explore all services",
+      "docs": {
+        "diploma": {
+          "title": "High school diploma",
+          "body": "Secondary school graduation certificates translated with original formatting, seals and signatures preserved.",
+          "tag": "Most requested"
+        },
+        "transcript": {
+          "title": "Academic transcript",
+          "body": "Semester and final transcripts — subjects, grading scales and credit hours rendered to match Chinese university expectations."
+        },
+        "certificate": {
+          "title": "School certificate",
+          "body": "Enrolment, attendance and completion certificates, keeping school letterheads and official language intact."
+        },
+        "criminal": {
+          "title": "Criminal record",
+          "body": "Police clearance and good-conduct certificates — translated to meet Chinese student visa requirements."
+        }
+      },
+      "more": {
+        "eyebrow": "Don't see your document?",
+        "title": "If it's part of a Chinese university application, we can translate it."
+      }
+    },
+    "languages": {
+      "eyebrow": "02 — Languages",
+      "titleA": "Four languages.",
+      "titleB": "Any direction you need.",
+      "intro": "We translate between English, French, Arabic and Chinese in any combination. Whether your documents are in Arabic and your university needs Chinese, or you have French transcripts that need to reach an English-medium programme — we cover it.",
+      "names": {
+        "en": "English",
+        "fr": "French",
+        "ar": "Arabic",
+        "zh": "Chinese"
+      },
+      "samples": {
+        "en": "The bearer has completed…",
+        "fr": "Le titulaire a achevé…",
+        "ar": "أتمّ حامل هذه الشهادة…",
+        "zh": "持证人已完成…"
+      },
+      "moreCombos": "…and every other pair"
+    },
+    "process": {
+      "eyebrow": "03 — How it works",
+      "titleA": "Three steps,",
+      "titleB": "one working day.",
+      "intro": "No portals, no sign-ups, no credit cards. Send us the document, wait a day, get it back — that's the whole process.",
+      "deepDive": "See the full process",
+      "steps": {
+        "one": {
+          "title": "Send us your document",
+          "body": "Message us on WhatsApp with a clear photo or scan of each document, the source and target language, and which university you're applying to.",
+          "time": "2 minutes"
+        },
+        "two": {
+          "title": "We translate and format",
+          "body": "Our translator works through your document, matching names, grades and dates against the standards Chinese universities expect. Layout, stamps and signatures stay intact.",
+          "time": "Within 24 hours"
+        },
+        "three": {
+          "title": "Receive it ready to submit",
+          "body": "You get a clean, application-ready PDF — formatted to be attached directly to your university application or uploaded to a visa portal.",
+          "time": "Delivered"
+        }
+      }
+    },
+    "whyUs": {
+      "eyebrow": "04 — Why us",
+      "titleA": "Translation alone isn't enough.",
+      "titleB": "Your application needs to land.",
+      "intro": "Plenty of translators can turn your diploma into Chinese. Fewer know what a Chinese admissions officer actually wants to see when they open the PDF. We sit on both sides of that table.",
+      "reasons": {
+        "expertise": {
+          "title": "We know what Chinese universities expect",
+          "body": "We're part of China Global Study. We help students apply to Chinese universities every year — we know which documents the admissions office wants, how names should be rendered and where most translations go wrong."
+        },
+        "format": {
+          "title": "Formatted to look like the original",
+          "body": "Your translated document preserves the layout, stamps, signatures and seals of the original. Admissions officers can line them up side by side and match every field at a glance."
+        },
+        "human": {
+          "title": "Handled by humans, not software",
+          "body": "Machine translation gets names, grading scales and official titles wrong in ways that cost students admission. A real translator reads every page and checks it end to end."
+        },
+        "time": {
+          "title": "24 hours, reliably",
+          "body": "Application deadlines don't wait. We commit to a 24-hour standard turnaround so you can plan your submission, not chase a translator."
+        }
+      }
+    },
+    "universities": {
+      "eyebrow": "Translations submitted to",
+      "title": "Our translations have reached admissions offices at universities like"
+    },
+    "cta": {
+      "eyebrow": "Get started",
+      "titleA": "Send us your first document.",
+      "titleB": "Get it back tomorrow.",
+      "intro": "A quote takes a few hours, a translation takes a day. Start the conversation on WhatsApp — send your document, tell us the language pair, and we'll come back with a price.",
+      "note": "Reply within hours"
+    }
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Services",
+      "titleA": "The documents Chinese universities",
+      "titleB": "actually ask for.",
+      "intro": "A focused service: the core paperwork for Chinese university applications, translated between English, French, Arabic and Chinese, delivered in 24 hours."
+    },
+    "detail": {
+      "diploma": {
+        "title": "High school diploma",
+        "desc": "The single most-requested document for bachelor's applications. We translate graduation certificates in full — national headers, school seals, signatures and footers — so the translated version looks and reads like the original.",
+        "included": [
+          "Student name, date of birth, place of birth",
+          "School name, address and accreditation references",
+          "Graduation date and academic year",
+          "Signatures, stamps and official seals noted and preserved",
+          "Translator's statement on letterhead"
+        ]
+      },
+      "transcript": {
+        "title": "Academic transcript",
+        "desc": "Semester-by-semester or cumulative transcripts. We match subject names to internationally recognised equivalents, keep grading scales intact, and render credit hours in a way Chinese universities can compare against their own systems.",
+        "included": [
+          "All subjects with exact course titles",
+          "Grades as given, with an explanation of the scale",
+          "Credit hours or weekly periods",
+          "Academic term structure (semesters, years)",
+          "Class rank or GPA if present"
+        ]
+      },
+      "certificate": {
+        "title": "School certificate",
+        "desc": "Enrolment letters, attendance records, completion certificates and certified school statements. Typically used alongside a transcript to prove current or recent student status.",
+        "included": [
+          "Type of certificate (enrolment, attendance, completion)",
+          "Student details and dates of enrolment",
+          "Signing authority and their role",
+          "School letterhead and stamps",
+          "Any accompanying academic notes"
+        ]
+      },
+      "criminal": {
+        "title": "Criminal record / good-conduct certificate",
+        "desc": "Required for the Chinese student visa file. We translate police-issued certificates of good conduct carefully — names and ID numbers are sensitive, and even small errors hold up a visa.",
+        "included": [
+          "Full legal name as shown on the original",
+          "National ID or passport number",
+          "Issuing authority and stamp",
+          "Statement of clear / non-clear record as issued",
+          "Date of issue and validity period if present"
+        ]
+      }
+    },
+    "includedTitle": "What we translate",
+    "more": {
+      "title": "Other documents for your application",
+      "body": "Passport copies, motivation letters, recommendation letters, medical certificates, bank statements — if it's part of a Chinese university application, ask us.",
+      "cta": "Ask about a document"
+    }
+  },
+  "process": {
+    "hero": {
+      "eyebrow": "Process",
+      "titleA": "Three steps.",
+      "titleB": "One working day.",
+      "intro": "No portals to sign up for, no credit cards to enter. You send, we translate, you receive. Here's how the day actually looks."
+    },
+    "sla": {
+      "title": "Our 24-hour turnaround, in detail",
+      "body": "Standard documents — transcripts, diplomas, school certificates, criminal records — are delivered within 24 hours of quote approval. We work in Morocco time (GMT+1), so a document approved Monday morning is back by Tuesday morning. Bigger files, stacks of transcripts or urgent rush jobs are quoted case by case, and we always tell you up front if a deadline is tight."
+    },
+    "scan": {
+      "title": "How to send a clean scan",
+      "items": [
+        { "title": "Good lighting", "body": "Daylight, or bright even indoor light. No shadows across the page." },
+        { "title": "All four corners visible", "body": "Cropped to show every edge of the document. Stamps half-cut-off cost an extra day." },
+        { "title": "Seals and signatures readable", "body": "If a seal looks blurry in the photo, it'll be unreadable in the translation." },
+        { "title": "One page per image", "body": "Clearer than multi-page phone photos. Or a proper PDF scan if you have access to one." }
+      ]
+    },
+    "deliverable": {
+      "title": "What you get back",
+      "body": "A PDF formatted to match the original — same layout, same section order, with Chinese / English / Arabic / French text where the original text was. A translator's statement is included, confirming that the translation is a true and accurate rendering of the original. Every page is on our letterhead with contact details, so the admissions office can verify us if they choose to."
+    }
+  },
+  "faq": {
+    "eyebrow": "05 — Questions",
+    "titleA": "Things students",
+    "titleB": "ask us first.",
+    "items": [
+      {
+        "q": "Are your translations officially certified?",
+        "a": "Our translations are not sworn or state-certified, but they are accepted by Chinese universities — which is what matters for a student application. Every translated document is on our letterhead and carries a statement confirming it is a true and accurate rendering of the original. If your university specifically requires a notarised or sworn translation, let us know before we start."
+      },
+      {
+        "q": "How much does a translation cost?",
+        "a": "We price per document, based on language pair, length and complexity. A short school certificate is not the same job as a 20-page university record. Send us your documents on WhatsApp and we'll come back with a flat quote within a few hours — no surprise fees later."
+      },
+      {
+        "q": "Is 24 hours really the turnaround?",
+        "a": "Yes, for standard documents like transcripts, diplomas, school certificates and criminal records. We start as soon as the quote is approved. For unusually long or urgent cases, we'll tell you up front — we don't promise what we can't deliver."
+      },
+      {
+        "q": "What file do you deliver?",
+        "a": "A clean, application-ready PDF formatted to match your original document. You can submit it directly through university portals or attach it to your visa file."
+      },
+      {
+        "q": "How do I send my documents?",
+        "a": "The easiest way is WhatsApp — send a clear photo or scan of each page. You can also email them. Make sure every seal, signature and stamp is visible in the scan; a translated document can only be as clear as the original we're reading from."
+      },
+      {
+        "q": "Can you translate documents for countries other than China?",
+        "a": "Right now we focus on translations for Chinese university applications — that's where our expertise lies and where we can guarantee acceptance. If your needs are different, message us and we'll tell you honestly whether we're the right fit."
+      }
+    ]
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "About",
+      "titleA": "A translation service",
+      "titleB": "built inside a study-abroad agency.",
+      "intro": "CGS Language Services is the translation division of China Global Study — the agency that helps students from Morocco, North Africa and beyond apply to universities in China."
+    },
+    "story": {
+      "title": "Why we exist",
+      "p1": "Every year, we watched our own students get their application documents translated by outside agencies — and every year, we watched the same mistakes come back: misspelled names, grading scales rendered incorrectly, stamps left out, certificates that looked nothing like the original.",
+      "p2": "Most of those mistakes are invisible to a general translator. They only matter to someone who has read hundreds of Chinese university application files and knows exactly what an admissions officer flags. So we built the translation in-house.",
+      "p3": "Today we offer that same work to any student applying to a Chinese university, not just our own. Same quality, same 24-hour turnaround, same quiet attention to the details that decide admissions."
+    },
+    "parent": {
+      "title": "Part of China Global Study",
+      "body": "China Global Study helps students worldwide access China's top universities — from language programmes to PhDs. CGS Language Services handles the document side of that work: the translations that sit quietly in the background of every successful application."
+    },
+    "values": {
+      "title": "What we care about",
+      "items": [
+        { "title": "Getting it right the first time", "body": "An application deadline is not the place to discover a typo. We proofread every translation against the original, twice." },
+        { "title": "Keeping deadlines", "body": "24 hours means 24 hours. If we can't, we say so before we start." },
+        { "title": "Treating documents like what they are", "body": "Your transcripts and certificates are the result of years of work. We handle them with that kind of care." }
+      ]
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contact",
+      "titleA": "Get a quote",
+      "titleB": "in hours, not days.",
+      "intro": "The fastest way to reach us is WhatsApp. Send us your document, tell us the languages, and we'll come back with a flat price and a delivery date."
+    },
+    "channels": {
+      "whatsapp": {
+        "title": "WhatsApp",
+        "body": "Fastest — reach us in minutes during working hours.",
+        "action": "Open chat"
+      },
+      "email": {
+        "title": "Email",
+        "body": "Best for longer briefs or multiple documents.",
+        "action": "Send email"
+      },
+      "location": {
+        "title": "Office",
+        "body": "Based in Berrechid, Morocco. Remote-first — we work with students anywhere."
+      }
+    },
+    "hours": {
+      "title": "Working hours",
+      "body": "Monday — Saturday, 9:00 — 18:00 (GMT+1). Messages outside these hours get a first reply the next working morning.",
+      "response": "Typical first reply: under 2 hours during working hours."
+    },
+    "send": {
+      "title": "Before you message, it helps if you have",
+      "items": [
+        "A clear photo or scan of each document",
+        "The language you're translating from",
+        "The language the university wants",
+        "The name of the university (or the stage of your application)"
+      ]
+    }
+  },
+  "footer": {
+    "blurb": "Document translation between English, French, Arabic and Chinese, built for students applying to Chinese universities. A division of China Global Study.",
+    "sections": "Sections",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp",
+    "email": "Email",
+    "basedIn": "Based in",
+    "rights": "All rights reserved.",
+    "parentCredit": "A division of China Global Study"
+  }
+}

@@ -1,0 +1,368 @@
+{
+  "common": {
+    "brand": {
+      "short": "CGS",
+      "full": "CGS Services Linguistiques",
+      "tagline": "Services Linguistiques",
+      "subline": "Traduction de documents"
+    },
+    "cta": {
+      "quote": "Demander un devis",
+      "whatsapp": "Écrire sur WhatsApp",
+      "whatsappLong": "Demander un devis sur WhatsApp",
+      "email": "Écrire à {{address}}",
+      "seeServices": "Voir ce que nous traduisons",
+      "getStarted": "Commencer",
+      "contact": "Nous contacter",
+      "askDirectly": "Posez-nous la question",
+      "back": "Retour"
+    },
+    "meta": {
+      "siteTitle": "CGS Services Linguistiques",
+      "siteDesc": "Traduction officielle de documents entre l'anglais, le français, l'arabe et le chinois, livrée en 24 heures. Acceptée par les universités chinoises."
+    }
+  },
+  "nav": {
+    "home": "Accueil",
+    "services": "Services",
+    "languages": "Langues",
+    "process": "Processus",
+    "about": "À propos",
+    "contact": "Contact",
+    "faq": "FAQ",
+    "menu": "Menu",
+    "language": "Langue"
+  },
+  "hero": {
+    "badge": "Accepté par les universités chinoises · Signé China Global Study",
+    "titleA": "La traduction de documents",
+    "titleB": "pour votre prochain chapitre",
+    "titleC": "en Chine.",
+    "subtitle": "Des traductions prêtes à être déposées entre <1>l'anglais, le français, l'arabe et le chinois</1> — livrées en 24 heures et acceptées par les universités chinoises. Pensées pour les étudiants, par une équipe qui envoie des étudiants en Chine chaque année.",
+    "points": {
+      "turnaround": "délai standard",
+      "accepted": "traductions",
+      "acceptedEm": "Acceptées par les universités",
+      "languages": "4 langues, toutes les directions"
+    },
+    "doc": {
+      "original": "Original",
+      "translated": "Traduit · ZH",
+      "zhTitle": "高中毕业证书",
+      "stampOuter": "验证",
+      "stampInner": "认证",
+      "bannerTitle": "Livré en 24 heures",
+      "bannerSub": "Délai standard"
+    }
+  },
+  "trust": {
+    "p1Stat": "24h",
+    "p1Label": "Délai standard",
+    "p2Stat": "4",
+    "p2Label": "Langues, toutes les directions",
+    "p3Stat": "100%",
+    "p3Label": "Acceptées par les universités chinoises",
+    "p4Stat": "Par des étudiants,",
+    "p4Label": "pour des étudiants"
+  },
+  "home": {
+    "services": {
+      "eyebrow": "01 — Services",
+      "titleA": "Chaque document demandé",
+      "titleB": "par votre université chinoise.",
+      "intro": "Nous nous concentrons sur les documents qui comptent pour une candidature universitaire en Chine — ceux que les services d'admission attendent réellement, traduits à leur standard.",
+      "explore": "Découvrir tous les services",
+      "docs": {
+        "diploma": {
+          "title": "Diplôme du baccalauréat",
+          "body": "Certificats de fin d'études secondaires traduits avec la mise en page d'origine, les sceaux et les signatures conservés.",
+          "tag": "Le plus demandé"
+        },
+        "transcript": {
+          "title": "Relevé de notes",
+          "body": "Relevés semestriels ou cumulatifs — matières, barèmes et crédits transposés pour correspondre aux attentes des universités chinoises."
+        },
+        "certificate": {
+          "title": "Certificat de scolarité",
+          "body": "Attestations d'inscription, d'assiduité et de fin d'études, en-têtes d'établissement et langue officielle préservés."
+        },
+        "criminal": {
+          "title": "Casier judiciaire",
+          "body": "Certificats de bonne conduite — traduits pour répondre aux exigences du visa étudiant chinois."
+        }
+      },
+      "more": {
+        "eyebrow": "Votre document n'y figure pas ?",
+        "title": "S'il entre dans un dossier d'admission chinois, nous savons le traduire."
+      }
+    },
+    "languages": {
+      "eyebrow": "02 — Langues",
+      "titleA": "Quatre langues.",
+      "titleB": "Dans la direction qu'il vous faut.",
+      "intro": "Nous traduisons entre l'anglais, le français, l'arabe et le chinois, dans toutes les combinaisons. Si vos documents sont en arabe et que l'université demande du chinois, ou si vos relevés sont en français pour un programme anglophone — nous couvrons le cas.",
+      "names": {
+        "en": "Anglais",
+        "fr": "Français",
+        "ar": "Arabe",
+        "zh": "Chinois"
+      },
+      "samples": {
+        "en": "The bearer has completed…",
+        "fr": "Le titulaire a achevé…",
+        "ar": "أتمّ حامل هذه الشهادة…",
+        "zh": "持证人已完成…"
+      },
+      "moreCombos": "…et toutes les autres paires"
+    },
+    "process": {
+      "eyebrow": "03 — Comment ça marche",
+      "titleA": "Trois étapes,",
+      "titleB": "une journée de travail.",
+      "intro": "Pas de portail, pas d'inscription, pas de carte bancaire. Vous envoyez, vous attendez un jour, vous recevez. Voilà tout le processus.",
+      "deepDive": "Voir le processus complet",
+      "steps": {
+        "one": {
+          "title": "Envoyez-nous votre document",
+          "body": "Écrivez-nous sur WhatsApp avec une photo ou un scan net de chaque document, la langue source et cible, et l'université visée.",
+          "time": "2 minutes"
+        },
+        "two": {
+          "title": "Nous traduisons et mettons en forme",
+          "body": "Notre traducteur reprend votre document, aligne les noms, les notes et les dates sur les standards des universités chinoises. La mise en page, les sceaux et les signatures restent intacts.",
+          "time": "Sous 24 heures"
+        },
+        "three": {
+          "title": "Vous recevez un dossier prêt à déposer",
+          "body": "Vous obtenez un PDF propre, prêt à déposer — à joindre directement à votre candidature ou à charger sur le portail de visa.",
+          "time": "Livré"
+        }
+      }
+    },
+    "whyUs": {
+      "eyebrow": "04 — Pourquoi nous",
+      "titleA": "Traduire ne suffit pas.",
+      "titleB": "Votre candidature doit être acceptée.",
+      "intro": "Beaucoup de traducteurs savent rendre votre diplôme en chinois. Peu savent ce qu'un agent d'admission chinois cherche en ouvrant le PDF. Nous sommes des deux côtés de la table.",
+      "reasons": {
+        "expertise": {
+          "title": "Nous connaissons les attentes des universités chinoises",
+          "body": "Nous faisons partie de China Global Study. Nous aidons chaque année des étudiants à candidater en Chine — nous savons quels documents l'admission veut, comment rendre les noms et où la plupart des traductions échouent."
+        },
+        "format": {
+          "title": "Mise en page fidèle à l'original",
+          "body": "La traduction conserve la mise en page, les sceaux, les signatures et les en-têtes de l'original. L'admission peut comparer les deux documents ligne à ligne."
+        },
+        "human": {
+          "title": "Par des humains, pas par un logiciel",
+          "body": "La traduction automatique se trompe sur les noms, les barèmes et les titres officiels — des erreurs qui coûtent une admission. Un vrai traducteur lit chaque page et relit de bout en bout."
+        },
+        "time": {
+          "title": "24 heures, sans exception",
+          "body": "Les dates limites n'attendent pas. Nous nous engageons sur un délai standard de 24 heures pour que vous planifiiez votre dossier sans attendre un traducteur."
+        }
+      }
+    },
+    "universities": {
+      "eyebrow": "Traductions déposées à",
+      "title": "Nos traductions sont arrivées dans les services d'admission d'universités comme"
+    },
+    "cta": {
+      "eyebrow": "Commencer",
+      "titleA": "Envoyez-nous votre premier document.",
+      "titleB": "Recevez-le demain.",
+      "intro": "Un devis prend quelques heures, une traduction prend une journée. Lancez la conversation sur WhatsApp — envoyez le document, indiquez la paire de langues, nous revenons avec un prix.",
+      "note": "Réponse en quelques heures"
+    }
+  },
+  "services": {
+    "hero": {
+      "eyebrow": "Services",
+      "titleA": "Les documents que les universités chinoises",
+      "titleB": "demandent réellement.",
+      "intro": "Un service ciblé : les documents essentiels d'une candidature universitaire chinoise, traduits entre l'anglais, le français, l'arabe et le chinois, livrés en 24 heures."
+    },
+    "detail": {
+      "diploma": {
+        "title": "Diplôme du baccalauréat",
+        "desc": "Le document le plus demandé pour une candidature en licence. Nous traduisons l'intégralité du certificat de fin d'études — en-têtes nationaux, sceaux, signatures et mentions de bas de page — pour que la version traduite soit lue comme l'originale.",
+        "included": [
+          "Nom de l'étudiant, date et lieu de naissance",
+          "Nom, adresse et références de l'établissement",
+          "Date d'obtention et année scolaire",
+          "Signatures, tampons et sceaux notés et préservés",
+          "Attestation du traducteur sur papier à en-tête"
+        ]
+      },
+      "transcript": {
+        "title": "Relevé de notes",
+        "desc": "Relevés par semestre ou cumulés. Nous alignons les intitulés de matières sur leurs équivalents reconnus, conservons les barèmes et rendons les crédits de manière que les universités chinoises puissent les comparer à leurs propres systèmes.",
+        "included": [
+          "Toutes les matières avec leurs intitulés exacts",
+          "Notes telles qu'attribuées, avec explication du barème",
+          "Crédits ou heures hebdomadaires",
+          "Structure de l'année (semestres, années)",
+          "Rang de classe ou moyenne si indiqué"
+        ]
+      },
+      "certificate": {
+        "title": "Certificat de scolarité",
+        "desc": "Attestations d'inscription, d'assiduité, de fin d'études et déclarations certifiées de l'école. Utilisées le plus souvent à côté d'un relevé pour prouver le statut d'étudiant actuel ou récent.",
+        "included": [
+          "Type d'attestation (inscription, assiduité, fin d'études)",
+          "Informations de l'étudiant et dates de scolarité",
+          "Autorité signataire et fonction",
+          "En-tête et tampons de l'école",
+          "Notes académiques accompagnantes éventuelles"
+        ]
+      },
+      "criminal": {
+        "title": "Casier judiciaire / certificat de bonne conduite",
+        "desc": "Requis pour le dossier de visa étudiant chinois. Nous traduisons les certificats de police avec un soin particulier — les noms et identifiants sont sensibles, et une petite erreur suffit à bloquer un visa.",
+        "included": [
+          "Nom légal complet tel qu'indiqué sur l'original",
+          "Numéro de carte nationale ou de passeport",
+          "Autorité émettrice et tampon",
+          "Mention du casier (vierge ou non) telle que délivrée",
+          "Date d'émission et période de validité le cas échéant"
+        ]
+      }
+    },
+    "includedTitle": "Ce que nous traduisons",
+    "more": {
+      "title": "Autres documents pour votre candidature",
+      "body": "Copies de passeport, lettres de motivation, lettres de recommandation, certificats médicaux, relevés bancaires — si c'est pour une université chinoise, demandez-nous.",
+      "cta": "Poser la question"
+    }
+  },
+  "process": {
+    "hero": {
+      "eyebrow": "Processus",
+      "titleA": "Trois étapes.",
+      "titleB": "Une journée de travail.",
+      "intro": "Pas de portail, pas d'inscription, pas de carte bancaire. Vous envoyez, nous traduisons, vous recevez. Voici comment la journée se déroule vraiment."
+    },
+    "sla": {
+      "title": "Notre délai de 24 heures, en détail",
+      "body": "Les documents standards — relevés, diplômes, certificats de scolarité, casiers — sont livrés dans les 24 heures suivant l'acceptation du devis. Nous travaillons en heure marocaine (GMT+1) ; un document validé lundi matin est de retour mardi matin. Les dossiers volumineux, les piles de relevés ou les demandes urgentes sont chiffrés au cas par cas, et nous vous disons toujours d'avance si une date est serrée."
+    },
+    "scan": {
+      "title": "Comment envoyer un scan propre",
+      "items": [
+        { "title": "Bonne lumière", "body": "Lumière du jour ou lumière intérieure homogène. Pas d'ombre sur la page." },
+        { "title": "Les quatre bords visibles", "body": "Cadrez pour montrer chaque bord du document. Un tampon coupé coûte un jour de plus." },
+        { "title": "Sceaux et signatures lisibles", "body": "Si un sceau est flou sur la photo, il sera illisible dans la traduction." },
+        { "title": "Une page par image", "body": "Plus net qu'une photo multi-pages. Ou un vrai scan PDF si vous y avez accès." }
+      ]
+    },
+    "deliverable": {
+      "title": "Ce que vous recevez",
+      "body": "Un PDF mis en page comme l'original — même structure, même ordre des sections, avec le texte en chinois / anglais / arabe / français à la place du texte d'origine. Une attestation du traducteur est jointe, confirmant que la traduction est fidèle et exacte. Chaque page porte notre en-tête et nos coordonnées, pour que l'admission puisse nous vérifier si elle le souhaite."
+    }
+  },
+  "faq": {
+    "eyebrow": "05 — Questions",
+    "titleA": "Les questions que",
+    "titleB": "nos étudiants posent d'abord.",
+    "items": [
+      {
+        "q": "Vos traductions sont-elles officiellement certifiées ?",
+        "a": "Nos traductions ne sont pas assermentées ni certifiées par l'État, mais elles sont acceptées par les universités chinoises — ce qui compte pour une candidature étudiante. Chaque traduction est sur notre papier à en-tête avec une attestation de fidélité. Si votre université exige explicitement une traduction notariée ou assermentée, dites-le-nous avant de commencer."
+      },
+      {
+        "q": "Quel est le tarif d'une traduction ?",
+        "a": "Nous fixons le prix document par document, selon la paire de langues, la longueur et la complexité. Un certificat court n'est pas le même travail qu'un dossier universitaire de 20 pages. Envoyez-nous les documents sur WhatsApp et nous revenons avec un prix fixe sous quelques heures — aucune mauvaise surprise ensuite."
+      },
+      {
+        "q": "Le délai de 24 heures est-il réel ?",
+        "a": "Oui, pour les documents standards comme les relevés, diplômes, certificats de scolarité et casiers. Nous commençons dès l'accord sur le devis. Pour un cas long ou urgent, nous vous le disons d'avance — nous ne promettons pas ce que nous ne pouvons pas livrer."
+      },
+      {
+        "q": "Quel fichier est livré ?",
+        "a": "Un PDF propre, prêt à déposer, mis en page comme l'original. Vous pouvez le déposer directement sur le portail de l'université ou dans votre dossier de visa."
+      },
+      {
+        "q": "Comment vous envoyer mes documents ?",
+        "a": "Le plus simple est WhatsApp — une photo ou un scan net de chaque page. L'e-mail fonctionne aussi. Assurez-vous que chaque sceau, signature et tampon est lisible ; une traduction ne peut être plus claire que l'original dont elle part."
+      },
+      {
+        "q": "Traduisez-vous pour d'autres pays que la Chine ?",
+        "a": "Nous nous concentrons aujourd'hui sur les candidatures universitaires chinoises — c'est là qu'est notre expertise et où nous pouvons garantir l'acceptation. Pour un autre cas, écrivez-nous, nous dirons honnêtement si nous sommes les bons."
+      }
+    ]
+  },
+  "about": {
+    "hero": {
+      "eyebrow": "À propos",
+      "titleA": "Un service de traduction",
+      "titleB": "né dans une agence d'études à l'étranger.",
+      "intro": "CGS Services Linguistiques est la branche traduction de China Global Study — l'agence qui accompagne les étudiants du Maroc, d'Afrique du Nord et d'ailleurs vers les universités chinoises."
+    },
+    "story": {
+      "title": "Pourquoi nous existons",
+      "p1": "Chaque année, nous regardions nos propres étudiants faire traduire leurs documents de candidature par des agences extérieures — et chaque année, les mêmes erreurs revenaient : noms mal orthographiés, barèmes mal rendus, sceaux oubliés, certificats qui ne ressemblaient plus à l'original.",
+      "p2": "La plupart de ces erreurs sont invisibles pour un traducteur généraliste. Elles ne comptent que pour quelqu'un qui a lu des centaines de dossiers d'admission chinois et sait exactement ce qu'un agent d'admission signale. Nous avons donc internalisé la traduction.",
+      "p3": "Aujourd'hui, nous proposons ce même travail à tout étudiant qui candidate en Chine, pas seulement les nôtres. Même qualité, même délai de 24 heures, même attention silencieuse aux détails qui décident d'une admission."
+    },
+    "parent": {
+      "title": "Partie de China Global Study",
+      "body": "China Global Study accompagne des étudiants du monde entier vers les meilleures universités de Chine — des programmes de langue aux doctorats. CGS Services Linguistiques s'occupe du côté documentaire : les traductions qui travaillent en silence derrière chaque admission réussie."
+    },
+    "values": {
+      "title": "Ce qui compte pour nous",
+      "items": [
+        { "title": "Le faire bien du premier coup", "body": "Une date limite n'est pas un bon moment pour découvrir une faute. Chaque traduction est relue deux fois contre l'original." },
+        { "title": "Tenir les délais", "body": "24 heures, c'est 24 heures. Sinon nous le disons avant de commencer." },
+        { "title": "Traiter les documents pour ce qu'ils sont", "body": "Vos relevés et vos certificats représentent des années de travail. Nous les traitons avec ce soin." }
+      ]
+    }
+  },
+  "contact": {
+    "hero": {
+      "eyebrow": "Contact",
+      "titleA": "Un devis",
+      "titleB": "en quelques heures.",
+      "intro": "Le plus rapide est WhatsApp. Envoyez-nous le document, dites-nous les langues, nous revenons avec un prix fixe et une date de livraison."
+    },
+    "channels": {
+      "whatsapp": {
+        "title": "WhatsApp",
+        "body": "Le plus rapide — une réponse en quelques minutes aux heures de travail.",
+        "action": "Ouvrir le chat"
+      },
+      "email": {
+        "title": "E-mail",
+        "body": "Idéal pour un brief plus long ou plusieurs documents.",
+        "action": "Écrire un e-mail"
+      },
+      "location": {
+        "title": "Bureau",
+        "body": "Basés à Berrechid, Maroc. Nous travaillons à distance avec des étudiants partout."
+      }
+    },
+    "hours": {
+      "title": "Horaires",
+      "body": "Du lundi au samedi, 9h — 18h (GMT+1). Les messages hors de ces horaires reçoivent une première réponse le matin ouvré suivant.",
+      "response": "Première réponse habituelle : moins de 2 heures pendant les heures de travail."
+    },
+    "send": {
+      "title": "Avant d'écrire, il est utile d'avoir",
+      "items": [
+        "Une photo ou un scan net de chaque document",
+        "La langue à traduire",
+        "La langue demandée par l'université",
+        "Le nom de l'université (ou l'étape de votre candidature)"
+      ]
+    }
+  },
+  "footer": {
+    "blurb": "Traduction de documents entre l'anglais, le français, l'arabe et le chinois, pensée pour les étudiants qui candidatent en Chine. Une division de China Global Study.",
+    "sections": "Sections",
+    "contact": "Contact",
+    "whatsapp": "WhatsApp",
+    "email": "E-mail",
+    "basedIn": "Basés à",
+    "rights": "Tous droits réservés.",
+    "parentCredit": "Une division de China Global Study"
+  }
+}
