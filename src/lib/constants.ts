@@ -2,7 +2,7 @@ export const CONTACT = {
   whatsappNumber: "+212646544440",
   whatsappDisplay: "+212 646 544 440",
   whatsappUrl:
-    "https://wa.me/212646544440?text=Hello%2C%20I%27d%20like%20a%20quote%20for%20document%20translation.",
+    "https://api.whatsapp.com/send?phone=212646544440&text=Hello%2C%20I%27d%20like%20a%20quote%20for%20document%20translation.",
   email: "info@yangshang.co.uk",
   parent: "China Global Study",
   location: "Berrechid, Morocco",
